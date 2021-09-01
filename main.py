@@ -7,9 +7,8 @@ flip = random.randint(0, 2)
 
 print(flip)
 
-if (flip == a) and (a <= 2) :
+if (flip == a):
     print("hurray! you won")
-elif (a >= 2):
-    print("enter a Valid Number")
+
 else:
     print("sorry you lost, better luck next time")
